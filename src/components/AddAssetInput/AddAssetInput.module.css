@@ -1,0 +1,16 @@
+.addAsset {
+  display: flex;
+  place-items: center;
+  gap: 10px;
+  justify-content: center;
+}
+input:valid {
+  background-color: palegreen;
+}
+input:invalid {
+  background-color: lightpink;
+}
+form:invalid button[type="submit"] {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
