@@ -4,3 +4,5 @@ The functionality responsible for resizing assets and dragging them across the s
 
 The project is built using Vite (https://vitejs.dev/).
 You need to run **npm install** followed by **npm start dev**. Next, you could open the application in the browser.
+
+Working demo: https://react-mediaplayer.vercel.app/
